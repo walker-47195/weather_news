@@ -4,7 +4,7 @@ from pprint import pprint
 import tkinter as tk
 from datetime import datetime
 
-key = "6e8428be179aba1530895e84b5b3cf40"
+key = ""
 
 params = {
     "lat": 34.6913,
